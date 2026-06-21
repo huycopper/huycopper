@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm HUY DONG DAI</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 📫 How to reach me **huy.dongdai20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **huy.dongdai20@gmail.com**</h3>
 <p align="left">
 </p>
 
